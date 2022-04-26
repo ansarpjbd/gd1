@@ -1,0 +1,36 @@
+
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(¯ùÈâ8ı«İ„0HÉRMAJORZ
+CODE_SMELL
+m
+java:S1854"5Remove this useless assignment to local variable "f".(ÈÛöÔùÿÿÿÿ8ı«İ„0HÃRMAJORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(¡³8ı«İ„0HÌRMAJORZ
+CODE_SMELL
+^
+java:S1481"&Remove this unused "f" local variable.(ÈÛöÔùÿÿÿÿ8ı«İ„0HÇRMINORZ
+CODE_SMELL
+]
+java:S1197"*Move the array designators [] to the type.(›ŸŠ 8Ç¨õÜ„0HRMINORZ
+CODE_SMELL
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(ÄÛ†ÿÿÿÿÿ8ı«İ„0HÍRMAJORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(„Êî²şÿÿÿÿ8ÔğùÜ„0HªRMAJORZ
+CODE_SMELL
+o
+java:S1854"7Remove this useless assignment to local variable "str".(¿àáºüÿÿÿÿ8ı«İ„0HÄRMAJORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(˜ı³8ÔğùÜ„0H˜RMAJORZ
+CODE_SMELL
+`
+java:S1481"(Remove this unused "str" local variable.(¿àáºüÿÿÿÿ8ı«İ„0HÅRMINORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(À™“éşÿÿÿÿ8ı«İ„0HÊRMAJORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(øø‰ûÿÿÿÿ8ı«İ„0HËRMAJORZ
+CODE_SMELL
+h
+java:S1854"5Remove this useless assignment to local variable "b".(«íöî8Ç¨õÜ„0H‹RMAJORZ
+CODE_SMELL
+Y
+java:S1481"&Remove this unused "b" local variable.(«íöî8Ç¨õÜ„0H’RMINORZ
+CODE_SMELL

@@ -1,0 +1,50 @@
+package com.gd.helloworld;
+
+public class MyDatatype {
+
+	public static void main(String[] args) {
+		
+		//variable ---it is name given to memory location
+		
+		
+		//it is used to store the true and false
+		//range --true and false
+		//default value: false;
+		//size--1 bit
+		boolean flag=true;	
+		System.out.println(flag);
+		
+		//byte
+		//it is used to store int value 
+		//range -- (-128 to 127)
+		//default value: 0;
+		//size--8 bit
+		//error--cannot covert from int to byte
+		byte b=1;	
+		System.out.println(b);
+		
+		
+		
+		//short
+		//it is used to store int value 
+		//range -- (-32768 to 32767)
+		//default value: 0;
+		//size--16 bit
+		//error--cannot covert from int to short
+		
+		short s=32765;	
+		System.out.println(s);
+		
+		
+		//int
+		//it is used to store int value 
+		//range -- (-2147483648 to 2147483647)
+		//default value: 0;
+		//size--32 bit
+		//error--cannot covert from int to short
+		
+		int a=32765;	
+		System.out.println(a);
+		
+	}
+}

@@ -1,0 +1,18 @@
+package com.gd.day6;
+
+//there is mobile concept
+
+interface Mobile {
+
+	//in mobile you can call 
+	public void calling();
+
+	//you can send sms 
+	public void sendSMS();
+	
+	
+}
+
+public class MyInterface {
+
+}

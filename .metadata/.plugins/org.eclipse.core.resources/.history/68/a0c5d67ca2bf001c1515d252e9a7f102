@@ -1,0 +1,38 @@
+package com.gd.day2;
+
+//Top down approach 
+public class MyDescisionMaking {
+
+	public static void main(String[] args) {
+
+		// selective or decision making statement
+		// code 1
+		// code 2
+		// code 3
+		// code 4
+
+		// if keyword
+		// () which take only true or false
+		// it is kind of switch which
+		//it take the expression which evaluate as true or false
+		int a=-10;
+		//  a>0 //variable operator zero
+		//operator
+		
+		if (false)
+		// block of if
+		// this is true block
+		{
+			System.out.println("i am true block");
+		}
+		//else block
+		//it will execute on false condition
+		else
+		{
+			System.out.println("i am false block");
+		}
+
+		System.out.println("next block");
+	}
+
+}

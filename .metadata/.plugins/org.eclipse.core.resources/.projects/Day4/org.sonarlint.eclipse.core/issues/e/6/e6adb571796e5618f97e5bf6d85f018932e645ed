@@ -1,0 +1,22 @@
+
+n	java:S125V"<This block of commented-out lines of code should be removed.(‡ÚÔ8üÛîÕ„0HÄRMAJORZ
+CODE_SMELL
+p	java:S106a"9Replace this use of System.out or System.err by a logger.(öğØ¹ÿÿÿÿÿ8ª¿øÔ„0HõRMAJORZ
+CODE_SMELL
+k	java:S106T"9Replace this use of System.out or System.err by a logger.(¥§…ç8ª¿øÔ„0H÷RMAJORZ
+CODE_SMELL
+‰
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8ä³†Õ„0H‚RMINORZ
+CODE_SMELL
+k	java:S106["9Replace this use of System.out or System.err by a logger.(¡¤£8ª¿øÔ„0HöRMAJORZ
+CODE_SMELL
+p	java:S106_"9Replace this use of System.out or System.err by a logger.(ä¶ıÿÿÿÿ8ºîšÕ„0H‡RMAJORZ
+CODE_SMELL
+p	java:S106U"9Replace this use of System.out or System.err by a logger.(¿Ñç›ÿÿÿÿÿ8Ÿš¢Õ„0H’RMAJORZ
+CODE_SMELL
+k	java:S106S"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8üÛîÕ„0HÃRMAJORZ
+CODE_SMELL
+p	java:S106b"9Replace this use of System.out or System.err by a logger.(‘ñÙùıÿÿÿÿ8ßÆïÕ„0HÇRMAJORZ
+CODE_SMELL
+k	java:S106`"9Replace this use of System.out or System.err by a logger.(Ú¾íè8ßÆïÕ„0HÈRMAJORZ
+CODE_SMELL

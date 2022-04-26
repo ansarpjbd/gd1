@@ -1,0 +1,32 @@
+package com.gd.day3;
+
+//Public class name and file name should be equal
+//one file can have multiple class in java file
+class Person {
+
+	
+	String name;
+	int age;
+	String degree;
+	
+	// variable
+	// static
+	// final
+	// default
+	// public ,private , protected , default
+
+	// method
+	// --->main method
+	// ---->constructor
+	// ---->setter and getter
+	// -->public ,private , protected , default
+	// static
+
+}
+
+public class MyClass {
+
+	public static void main(String[] args) {
+		
+	}
+}

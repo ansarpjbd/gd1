@@ -1,0 +1,20 @@
+package com.gd.day7;
+
+//final : it make the class , method and variable as final
+//final class--class cannot be extends
+//final variable --you cannot change the value of variable
+//final method-- override will not be allowed 
+
+
+//this class is final now
+final class A {
+
+}
+//The type B cannot subclass the final class A
+class B extends A {
+
+}
+
+public class MYFinalKeyword {
+
+}

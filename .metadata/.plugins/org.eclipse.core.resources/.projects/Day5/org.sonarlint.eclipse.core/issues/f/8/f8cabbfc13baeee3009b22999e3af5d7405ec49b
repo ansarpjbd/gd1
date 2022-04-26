@@ -1,0 +1,16 @@
+
+~	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö‹ÔşùÿÿÿÿHìRMINORZ
+CODE_SMELL
+i	java:S106*"9Replace this use of System.out or System.err by a logger.(ØúÑÿùÿÿÿÿHíRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(‘±ùÿÿÿÿHéRMAJORZ
+CODE_SMELL
+l	java:S125)"<This block of commented-out lines of code should be removed.(¤úšøÿÿÿÿHîRMAJORZ
+CODE_SMELL
+y	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯½é±HêRMINORZ
+CODE_SMELL
+~	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı—±îøÿÿÿÿHèRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(‚üàŒùÿÿÿÿHëRMAJORZ
+CODE_SMELL

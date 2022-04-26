@@ -1,0 +1,16 @@
+package com.gd.day2;
+
+//Top down approach 
+public class MyDescisionMaking {
+
+	public static void main(String[] args) {
+
+		//selective or decision making statement
+		// code 1
+		// code 2
+		// code 3
+		// code 4
+
+	}
+
+}

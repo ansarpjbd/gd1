@@ -1,0 +1,15 @@
+package com.gd.day5;
+
+class Person
+{
+	
+}
+
+
+public class MyInheritance {
+
+	 public static void main(String[] args) {
+		
+		
+	}
+}

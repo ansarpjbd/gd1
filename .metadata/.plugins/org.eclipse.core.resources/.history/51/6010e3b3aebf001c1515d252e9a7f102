@@ -1,0 +1,13 @@
+package com.gd.day2;
+
+public class MyLooping {
+	
+	public static void main(String[] args) {
+		
+		
+		//Looping --it is used when we have to repeat some link of code again anf again
+		
+		
+	}
+
+}

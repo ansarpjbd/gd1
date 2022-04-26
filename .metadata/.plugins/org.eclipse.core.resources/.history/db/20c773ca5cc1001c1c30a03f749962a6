@@ -1,0 +1,30 @@
+package com.gd.day4;
+
+public class MyArray {
+
+	public static void main(String[] args) {
+
+		// Array --it will store the same type of data
+		int a[] = new int[5];
+		int[] b =new int[5];
+		
+		//add the element to array
+		
+		//using index base
+		a[0]=4;
+		a[1]=3;
+		a[2]=5;
+		a[3]=2;
+		a[4]=6;
+		
+		System.out.println(a[0]);
+		System.out.println(a[1]);
+		System.out.println(a[2]);
+		System.out.println(a[3]);
+		System.out.println(a[4]);
+		
+		
+		// Array Ends
+
+	}
+}

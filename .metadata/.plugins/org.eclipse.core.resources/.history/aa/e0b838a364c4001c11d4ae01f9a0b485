@@ -1,0 +1,21 @@
+package com.gd.day6;
+
+//method overloading 
+class Person
+{
+
+	public void sleep()
+	{
+	System.out.println("sleeping");	
+	}
+	public void sleep(int time)
+	{
+		System.out.println("Sleep for time "+time);
+	}
+	
+}
+
+
+public class MyPolymorphism {
+
+}

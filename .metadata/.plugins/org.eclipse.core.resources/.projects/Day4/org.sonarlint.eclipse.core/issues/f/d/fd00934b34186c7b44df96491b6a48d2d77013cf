@@ -1,0 +1,71 @@
+
+j	java:S106E"9Replace this use of System.out or System.err by a logger.(ƒÚáB8¸ò©Û„0H½	RMAJORZ
+CODE_SMELL
+W
+java:S2201Z"+The return value of "isEmpty" must be used.(àÂ–¤8ÛÁÀÛ„0H™
+RMAJORZBUG
+R
+java:S2129" Remove this "String" constructor(ßÛûA8Ö ìÚ„0HÜRMAJORZ
+CODE_SMELL
+s	java:S125$"<This block of commented-out lines of code should be removed.( ®Ğøÿÿÿÿ8±¿‘Û„0HİRMAJORZ
+CODE_SMELL
+p	java:S106`"9Replace this use of System.out or System.err by a logger.(‘İæØúÿÿÿÿ8¦åÈÛ„0HÀ
+RMAJORZ
+CODE_SMELL
+k	java:S106D"9Replace this use of System.out or System.err by a logger.(¿‰¥†8¹Í·Û„0Hñ	RMAJORZ
+CODE_SMELL
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(Ü³²Àüÿÿÿÿ8ÉäÛ„0HÒRMAJORZ
+CODE_SMELL
+h
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ö†âä8ÓûÚ„0HõRMAJORZBUG
+k	java:S1068"9Replace this use of System.out or System.err by a logger.(¤ùÙå8 Ú´Û„0Hæ	RMAJORZ
+CODE_SMELL
+p	java:S106F"9Replace this use of System.out or System.err by a logger.(è¨öôúÿÿÿÿ8¸ò©Û„0H¾	RMAJORZ
+CODE_SMELL
+j
+java:S1854"7Remove this useless assignment to local variable "str".(ÎºŠ§8°¿‘Û„0HÜRMAJORZ
+CODE_SMELL
+p	java:S106\"9Replace this use of System.out or System.err by a logger.(±“‰¿üÿÿÿÿ8ÓûÚ„0HôRMAJORZ
+CODE_SMELL
+c
+java:S2201@"7The return value of "compareToIgnoreCase" must be used.(›İÎƒ8¸ò©Û„0H¼	RMAJORZBUG
+s	java:S125I"<This block of commented-out lines of code should be removed.(üêòöıÿÿÿÿ8Àì²Û„0HÊ	RMAJORZ
+CODE_SMELL
+j	java:S106O"9Replace this use of System.out or System.err by a logger.(¹ÍÚK8ˆ™¾Û„0H
+RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ö†âä8œ¹ÆÛ„0H¶
+RMAJORZ
+CODE_SMELL
+j	java:S106e"9Replace this use of System.out or System.err by a logger.(ƒÚáB8†“ÌÛ„0HÖ
+RMAJORZ
+CODE_SMELL
+
+java:S1192"KDefine a constant instead of duplicating this literal "Hello Java" 3 times.(†÷Ã¾8ƒÜúÚ„0HëRCRITICALZ
+CODE_SMELL
+p	java:S106S"9Replace this use of System.out or System.err by a logger.(ÇÆàİøÿÿÿÿ8¸™Û„0HŒ	RMAJORZ
+CODE_SMELL
+k	java:S106L"9Replace this use of System.out or System.err by a logger.(Ôğå¬8Àì²Û„0HÉ	RMAJORZ
+CODE_SMELL
+p	java:S106V"9Replace this use of System.out or System.err by a logger.(İÎĞñûÿÿÿÿ8ÅãºÛ„0H„
+RMAJORZ
+CODE_SMELL
+a
+java:S1481")Remove this unused "str2" local variable.(ÍÆÜûÿÿÿÿ8“­üÚ„0HƒRMINORZ
+CODE_SMELL
+k	java:S106^"9Replace this use of System.out or System.err by a logger.(“…ºŠ8¹ÌÁÛ„0H£
+RMAJORZ
+CODE_SMELL
+p
+java:S1854"8Remove this useless assignment to local variable "str2".(ÍÆÜûÿÿÿÿ8“­üÚ„0H‚RMAJORZ
+CODE_SMELL
+k	java:S106b"9Replace this use of System.out or System.err by a logger.(°ºé8†“ÌÛ„0HÕ
+RMAJORZ
+CODE_SMELL
+k	java:S106f"9Replace this use of System.out or System.err by a logger.(ÂÿŠ8¦åÈÛ„0HÁ
+RMAJORZ
+CODE_SMELL
+p	java:S106="9Replace this use of System.out or System.err by a logger.(´²”Ñøÿÿÿÿ8¸ò©Û„0H¿	RMAJORZ
+CODE_SMELL
+k	java:S106K"9Replace this use of System.out or System.err by a logger.(á‡ƒ8„§˜Û„0H‚	RMAJORZ
+CODE_SMELL

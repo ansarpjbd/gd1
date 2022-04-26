@@ -1,0 +1,31 @@
+package com.gd.day4;
+package java.lang.*;
+
+//All the java is part of OBJECT class 
+//every class has object as parent class 
+
+public class Employee  {
+
+	
+	int id;
+	String name;
+	double salary;
+	String deptid;
+	
+	//default method
+	//inbuild method
+	//it come in jvm
+	//public void 
+	
+	
+	public static void main(String[] args) {
+		
+		//class name      object name      //new  constructor
+		Employee         employee       =    new Employee();
+		
+		System.out.println(employee.equals(employee));
+		System.out.println(employee.hashCode());
+		System.out.println(employee.toString());
+	
+	}
+}

@@ -1,0 +1,23 @@
+
+h
+java:S1854r"7Remove this useless assignment to local variable "two".(ö·â­üÿÿÿÿHæRMAJORZ
+CODE_SMELL
+T
+java:S1481q"(Remove this unused "one" local variable.(ˆÀëİHéRMINORZ
+CODE_SMELL
+i	java:S106d"9Replace this use of System.out or System.err by a logger.( â‚õùÿÿÿÿHåRMAJORZ
+CODE_SMELL
+i	java:S106b"9Replace this use of System.out or System.err by a logger.(‘±ùÿÿÿÿHãRMAJORZ
+CODE_SMELL
+|	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î£”ôHíRMINORZ
+CODE_SMELL
+c
+java:S1854q"7Remove this useless assignment to local variable "one".(ˆÀëİHçRMAJORZ
+CODE_SMELL
+l	java:S125o"<This block of commented-out lines of code should be removed.(¡‘ÄÈùÿÿÿÿHèRMAJORZ
+CODE_SMELL
+Y
+java:S1481r"(Remove this unused "two" local variable.(ö·â­üÿÿÿÿHëRMINORZ
+CODE_SMELL
+i	java:S106c"9Replace this use of System.out or System.err by a logger.(ˆ ëÌşÿÿÿÿHäRMAJORZ
+CODE_SMELL

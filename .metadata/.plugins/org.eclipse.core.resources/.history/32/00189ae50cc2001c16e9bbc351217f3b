@@ -1,0 +1,20 @@
+package com.gd.day5;
+
+class PersonA
+{
+   String name;	
+}
+
+class StudentA extends PersonA
+{
+	String studentID;
+}
+
+class EmployeeA extends PersonA
+{
+	String employeeID;
+}
+
+public class MyHierarchical {
+
+}

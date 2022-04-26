@@ -1,0 +1,22 @@
+
+}
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÑÛÀ„ıÿÿÿÿ8İã«û…0HõRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(±¦Üâıÿÿÿÿ8İã«û…0HôRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¿ÀƒÁ8 à­û…0HûRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÂ¨8İã«û…0HóRMAJORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8 à­û…0HüRINFOZ
+CODE_SMELL
+n
+java:S1610"6Convert the abstract class "Mobile" into an interface.(¢µû¸ÿÿÿÿÿ8ÿù¢û…0HñRMINORZ
+CODE_SMELL
+o
+java:S1854'"7Remove this useless assignment to local variable "mx1".(²›İôøÿÿÿÿ8É‰ü…0H›RMAJORZ
+CODE_SMELL
+`
+java:S1481'"(Remove this unused "mx1" local variable.(²›İôøÿÿÿÿ8É‰ü…0HœRMINORZ
+CODE_SMELL

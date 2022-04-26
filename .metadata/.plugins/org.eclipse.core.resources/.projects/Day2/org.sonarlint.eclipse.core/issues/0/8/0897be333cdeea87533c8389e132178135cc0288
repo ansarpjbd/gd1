@@ -1,0 +1,18 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(¯šûæûÿÿÿÿ8ð¡˜…„0H®RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç‹üàúÿÿÿÿ8ì›Õ…„0H³RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(§«Ï‹8Ï“—…„0HµRMAJORZ
+CODE_SMELL
+s	java:S1257"<This block of commented-out lines of code should be removed.(æÒ¼‹ÿÿÿÿÿ8Æä¦…„0H·RMAJORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8™Ì……„0H¸RMAJORZ
+CODE_SMELL
+n
+java:S1854"6Remove this useless assignment to local variable "ts".(ç‹üàúÿÿÿÿ8ì›Õ…„0H¹RMAJORZ
+CODE_SMELL
+_
+java:S1481"'Remove this unused "ts" local variable.(ç‹üàúÿÿÿÿ8ì›Õ…„0HºRMINORZ
+CODE_SMELL

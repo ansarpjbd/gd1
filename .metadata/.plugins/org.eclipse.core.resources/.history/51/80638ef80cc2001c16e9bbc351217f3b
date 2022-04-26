@@ -1,0 +1,28 @@
+package com.gd.day5;
+
+class PersonA
+{
+   String name;	
+   PersonA(String name)
+   {
+	   this.name=name;
+   }
+   public void PersonPrint()
+   {
+	   System.out.println(this.name);
+   }
+}
+
+class StudentA extends PersonA
+{
+	String studentID;
+}
+
+class EmployeeA extends PersonA
+{
+	String employeeID;
+}
+
+public class MyHierarchical {
+
+}

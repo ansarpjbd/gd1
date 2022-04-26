@@ -1,0 +1,13 @@
+package com.gd.day6;
+
+//
+abstract class Mobile
+{
+	//you can have the abstract and non abstract method
+	
+	
+}
+
+public class MYAbstractClass {
+
+}

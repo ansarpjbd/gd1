@@ -1,0 +1,28 @@
+package com.gd.day4;
+
+import java.util.Scanner;
+
+public class MyArray {
+
+	public static void main(String[] args) {
+
+		// Array --it will store the same type of data
+		int a[] = new int[5];
+		int[] b = new int[5];
+
+		// Scanner
+		Scanner sc = new Scanner(System.in);
+
+		// add the element to array
+		for (int i = 0; i < 5; i++) {
+			System.out.println("Enter the value for index " + i);
+			a[i] = sc.nextInt();
+		}
+		// using index base
+		for (int i = 0; i < 5; i++) {
+			System.out.println("Array value " + a[4]);
+		}
+		// Array Ends
+
+	}
+}

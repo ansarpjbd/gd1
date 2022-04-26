@@ -1,0 +1,45 @@
+package com.gd.day4;
+
+public class MyString {
+	
+	public static void main(String[] args) {
+		
+		
+		//String class
+		  //it is used to store the word or line
+		  //insert 
+		 //update
+		 //append
+		 //find the first char
+		 //convert to uppercase
+		 //convert to lower case
+		
+         //it will heap inside string pool constant stack area	
+		   //it is area to store  the string
+		   //it will not have the duplicate strings
+		
+		String str="Hello Java";
+		
+		String str2="Hello Java";
+		//class and object 
+		//heap
+		String str1=new String("Hello Java");
+		//it wil compare the value and type
+		System.out.println(str==str1);
+		
+		str=str+" Java ";
+		
+		//method of string class
+		
+		//charAt --it will take the location index as input and return the char
+		//java.lang.StringIndexOutOfBoundsException
+		//when index value is not match there in string
+		System.out.println(str.charAt(50));
+		
+		str="A";
+		//it is used to compare two string
+		str.compareTo("B")
+		
+	}
+
+}

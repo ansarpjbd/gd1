@@ -1,0 +1,37 @@
+
+p	java:S106."9Replace this use of System.out or System.err by a logger.(µ©‡üÿÿÿÿ8ºŸØ‚„0HRMAJORZ
+CODE_SMELL
+k	java:S106;"9Replace this use of System.out or System.err by a logger.(ı‰ˆ¼8¢Àâ‚„0HRMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(¾„Œİÿÿÿÿÿ8ê˜¡‚„0H‘RMAJORZ
+CODE_SMELL
+k	java:S1068"9Replace this use of System.out or System.err by a logger.(Ôİ‰8¢Àâ‚„0H’RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(©ö–µùÿÿÿÿ8ÂµÑ‚„0H“RMAJORZ
+CODE_SMELL
+p	java:S106D"9Replace this use of System.out or System.err by a logger.(Şï¿¯ıÿÿÿÿ8¢Àâ‚„0H”RMAJORZ
+CODE_SMELL
+k	java:S106A"9Replace this use of System.out or System.err by a logger.(ç®«İ8¢Àâ‚„0H•RMAJORZ
+CODE_SMELL
+e
+java:S11990"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ÂµÑ‚„0H–RMINORZ
+CODE_SMELL
+k	java:S1061"9Replace this use of System.out or System.err by a logger.(¹Ã¨ñ8õ×‚„0H—RMAJORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(à‘íÎÿÿÿÿÿ8õ×‚„0H˜RMAJORZ
+CODE_SMELL
+k	java:S106G"9Replace this use of System.out or System.err by a logger.(ùú¦8¢Àâ‚„0H™RMAJORZ
+CODE_SMELL
+k	java:S106J"9Replace this use of System.out or System.err by a logger.(î¹½Ô8®™é‚„0HšRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(à‘íÎÿÿÿÿÿ8ú‹Ä‚„0H›RMAJORZ
+CODE_SMELL
+p	java:S106>"9Replace this use of System.out or System.err by a logger.(ØÉ“ùÿÿÿÿ8¢Àâ‚„0HœRMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(©ö–µùÿÿÿÿ8ºŸØ‚„0HRMAJORZ
+CODE_SMELL
+ˆ
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8®™é‚„0HRCRITICALZ
+CODE_SMELL
+p	java:S106L"9Replace this use of System.out or System.err by a logger.(½êäÿÿÿÿÿ8¢Àâ‚„0H­RMAJORZ
+CODE_SMELL

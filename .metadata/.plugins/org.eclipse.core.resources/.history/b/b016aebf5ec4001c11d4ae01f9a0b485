@@ -1,0 +1,35 @@
+package com.gd.day6;
+
+//there is mobile concept
+//it is used to provide the abstraction
+interface Mobile {
+
+	// in mobile you can call
+	public void calling();
+
+	// you can send SMS
+	public void sendSMS();
+
+}
+//interface can be used by another class
+//that will provide the implenation 
+public class MyInterface {
+
+	
+  //You cannot create the object of interface
+	Mobile mobile=new Mobile() {
+		
+		@Override
+		public void sendSMS() {
+			// TODO Auto-generated method stub
+			
+		}
+		
+		@Override
+		public void calling() {
+			// TODO Auto-generated method stub
+			
+		}
+	};
+	
+}

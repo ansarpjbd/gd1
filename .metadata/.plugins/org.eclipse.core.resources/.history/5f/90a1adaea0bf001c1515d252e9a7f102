@@ -1,0 +1,12 @@
+package com.gd.day2;
+
+
+//Top down approach 
+public class MyDescisionMaking {
+
+	public static void main(String[] args) {
+		
+	}
+	
+	
+}

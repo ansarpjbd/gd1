@@ -1,0 +1,12 @@
+package com.gd.day3;
+
+//Public class name and file name should be equal
+
+class Person
+{
+	
+}
+
+public class MyClass {
+
+}

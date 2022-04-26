@@ -1,0 +1,54 @@
+package com.gd.day5;
+
+class Person {
+
+	int addharCard;
+	String name;
+	String father_Name;
+	String mother_Name;
+	int age;
+	
+	
+	public Person(int addharCard, String name, String father_Name, String mother_Name, int age) {
+		this.addharCard = addharCard;
+		this.name = name;
+		this.father_Name = father_Name;
+		this.mother_Name = mother_Name;
+		this.age = age;
+	}
+
+}
+
+//Single level
+//Use the extends keyword 
+//it will extends or reuse code of another code
+//member variable
+//method
+class Student extends Person {
+
+	int studentId;
+	int fees;
+	String subject;
+}
+
+class Employee {
+	int addharCard;
+	String name;
+	String father_Name;
+	String mother_Name;
+	int age;
+	int studentId;
+	int fees;
+	String subject;
+	int employeeid;
+	int salary;
+	String dept;
+	String location;
+}
+
+public class MyInheritance {
+
+	public static void main(String[] args) {
+
+	}
+}

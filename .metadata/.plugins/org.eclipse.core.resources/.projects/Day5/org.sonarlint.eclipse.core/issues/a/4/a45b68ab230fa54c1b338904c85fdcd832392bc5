@@ -1,0 +1,59 @@
+
+	java:S116"VRename this field "father_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÎœ˜HóRMINORZ
+CODE_SMELL
+†	java:S116"VRename this field "mother_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ«ˆæþÿÿÿÿHôRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(±¨ÜòHõRMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÕ¶1HöRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(‘±ùÿÿÿÿH÷RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¸•–ØûÿÿÿÿHøRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(žªÞHùRMAJORZ
+CODE_SMELL
+i	java:S106 "9Replace this use of System.out or System.err by a logger.(ˆ ëÌþÿÿÿÿHúRMAJORZ
+CODE_SMELL
+g	java:S125>"<This block of commented-out lines of code should be removed.(± ‰±HûRMAJORZ
+CODE_SMELL
+i	java:S106I"9Replace this use of System.out or System.err by a logger.(êöÂøþÿÿÿÿHüRMAJORZ
+CODE_SMELL
+c	java:S106J"9Replace this use of System.out or System.err by a logger.(ÂÕ¶1HýRMAJORZ
+CODE_SMELL
+i	java:S106K"9Replace this use of System.out or System.err by a logger.(‘±ùÿÿÿÿHþRMAJORZ
+CODE_SMELL
+i	java:S106L"9Replace this use of System.out or System.err by a logger.(¸•–ØûÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+d	java:S106M"9Replace this use of System.out or System.err by a logger.(žªÞH€RMAJORZ
+CODE_SMELL
+i	java:S106N"9Replace this use of System.out or System.err by a logger.(ˆ ëÌþÿÿÿÿHRMAJORZ
+CODE_SMELL
+d	java:S106k"9Replace this use of System.out or System.err by a logger.(öƒÍ†H‚RMAJORZ
+CODE_SMELL
+d	java:S106}"9Replace this use of System.out or System.err by a logger.(Ñ‹ôòHƒRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(þããÐøÿÿÿÿH„RMAJORZ
+CODE_SMELL
+j	java:S106„"9Replace this use of System.out or System.err by a logger.(ÌÛÏ¬úÿÿÿÿH…RMAJORZ
+CODE_SMELL
+e	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ÓèÖñH†RMAJORZ
+CODE_SMELL
+j	java:S106Œ"9Replace this use of System.out or System.err by a logger.(©åêµüÿÿÿÿH‡RMAJORZ
+CODE_SMELL
+l	java:S1072"AConstructor has 8 parameters, which is greater than 7 authorized.(üÞ—ïHˆRMAJORZ
+CODE_SMELL
+r	java:S107["BConstructor has 12 parameters, which is greater than 7 authorized.(Œ—×·úÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊHŠRMINORZ
+CODE_SMELL
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊH‹RMINORZ
+CODE_SMELL
+|	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÞ—ïHŒRMINORZ
+CODE_SMELL
+|	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÞ—ïHRMINORZ
+CODE_SMELL
+	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ—×·úÿÿÿÿHŽRMINORZ
+CODE_SMELL
+	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ—×·úÿÿÿÿHRMINORZ
+CODE_SMELL

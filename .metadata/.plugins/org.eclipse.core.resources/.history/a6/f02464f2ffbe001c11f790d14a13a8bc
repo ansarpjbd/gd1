@@ -1,0 +1,13 @@
+package com.gd.helloworld;
+
+public class MyDatatype {
+
+	public static void main(String[] args) {
+		
+		//it is used to store the true and false
+		boolean flag=false;
+		
+		System.out.println(flag);
+		
+	}
+}

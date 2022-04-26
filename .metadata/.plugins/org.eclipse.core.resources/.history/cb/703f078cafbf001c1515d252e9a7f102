@@ -1,0 +1,32 @@
+package com.gd.day2;
+
+public class MyLooping {
+	
+	public static void main(String[] args) {
+		
+		
+		//Looping --it is used when we have to repeat some link of code again anf again
+		
+		/*
+		 * int a=1; //once a lifetime
+		 * 
+		 * System.out.println(a); //repeating a=a+1; // add the one to last value
+		 * //repeating System.out.println(a); a=a+1; System.out.println(a); a=a+1;
+		 * System.out.println(a); a=a+1; System.out.println(a); a=a+1;
+		 * System.out.println(a); a=a+1; System.out.println(a); a=a+1;
+		 * System.out.println(a); a=a+1; System.out.println(a); a=a+1;
+		 * System.out.println(a);
+		 * 
+		 * //for loop //intilaztion of variable //condition //inc/decrement
+		 * //i,j,k,l,m,n
+		 */		
+		//entry controll loop
+		//int i=0;
+		for(int i=1;i<=10;i++)
+		{
+			System.out.println(i);
+		}
+		
+	}
+
+}

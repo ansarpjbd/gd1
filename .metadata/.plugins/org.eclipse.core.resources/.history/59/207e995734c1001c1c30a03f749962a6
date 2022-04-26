@@ -1,0 +1,18 @@
+package com.gd.day4;
+
+public class Employee {
+
+	
+	int id;
+	String name;
+	double salary;
+	String deptid;
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+		Employee employee=new Employee();
+	}
+}
