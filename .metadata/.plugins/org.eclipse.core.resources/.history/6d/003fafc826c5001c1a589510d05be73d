@@ -14,7 +14,7 @@ package com.gd.day7;
 //only the memeber variable should be able to access the variable 
 
 class Person {
-	private int wallet=2000;
+	private int wallet=1000;
 
 	public void addMoney(int wallet) {
 
