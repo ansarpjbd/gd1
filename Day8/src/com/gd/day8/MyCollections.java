@@ -13,7 +13,7 @@ public class MyCollections {
 
 		// int[] a=new int[10];
 
-		// searching , deletion
+		// searching , deletion,sort, update ,add,size
 
 		// MAP
 		// 3--->Name
