@@ -1,7 +1,9 @@
 package com.gd.day8;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Iterator;
+import java.util.List;
 
 //Iterable of collections 
 
@@ -21,15 +23,26 @@ public class MyCollections {
 		// List
 
 		// it is same as array but it is dymanic array
-		ArrayList list = new ArrayList();
+		//Collections will not hold the primitive data type
+		//int , float, double
+		List<Integer> list = new ArrayList<Integer>();
 		// obj
 
 		// add the element to list
-		list.add("hello");
+		list.add(200);
 		list.add(1);
-		list.add(1.1);
-		list.add("A");
-
+		list.add(7);
+		list.add(6);
+		list.add(9);
+		list.add(100);
+		
+		//sort this list based on asc and desc
+		Collections.sort(list);
+		System.out.println(list);
+		
+		
+		
+		
 		// delete all the element of list
 		// list.clear();
 
@@ -58,7 +71,7 @@ public class MyCollections {
 		System.out.println(list.size());
 
 		//set method pass the index and value
-		list.set(0, "hello");
+		//list.set(0, "hello");
 		
 		//list.
 		
