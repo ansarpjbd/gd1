@@ -8,9 +8,9 @@ public class MYSorting {
 	public static void main(String[] args) {
 		List<Employee> listEmployee = new ArrayList<Employee>();
 		Employee e1=new Employee();
-		e1.setId(1001);
+		e1.setId(109);
 		e1.setName("Ravinder");
-		e1.setSalary(10000.0);
+		e1.setSalary(50000.0);
 		
 		listEmployee.add(e1);
 		
@@ -26,23 +26,23 @@ public class MYSorting {
 		Employee e3=new Employee();
 		e3.setId(1002);
 		e3.setName("Zee");
-		e3.setSalary(10000.0);
+		e3.setSalary(80000.0);
 		
 		listEmployee.add(e3);
 		
 		
 		Employee e4=new Employee();
-		e4.setId(1002);
+		e4.setId(10025);
 		e4.setName("Jojo");
-		e4.setSalary(10000.0);
+		e4.setSalary(100.0);
 		
 		listEmployee.add(e4);
 		
 		
 		Employee e5=new Employee();
-		e5.setId(1002);
+		e5.setId(1010);
 		e5.setName("John");
-		e5.setSalary(10000.0);
+		e5.setSalary(90.0);
 		
 		listEmployee.add(e5);
 		
@@ -51,9 +51,9 @@ public class MYSorting {
 		               //it is override method compareTo
 		//comparator
 		//it is sorting based on the name 
-		//becuase we have implemented the comparable inteface 
+		//because we have implemented the comparable inteface 
 		 //we haver override the String to compara method
-		Collections.sort(listEmployee,Collections.reverseOrder());
+		Collections.sort(listEmployee);
 		
 		//System.out.println(listEmployee);
 		for(Employee e:listEmployee)
