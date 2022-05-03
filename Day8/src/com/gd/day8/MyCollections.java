@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Vector;
 
 //Iterable of collections 
 
@@ -25,8 +26,8 @@ public class MyCollections {
 		// it is same as array but it is dymanic array
 		//Collections will not hold the primitive data type
 		//int , float, double
-		List<Integer> list = new ArrayList<Integer>();
-		// obj
+		List<Integer> list = new Vector<Integer>();
+		//object
 
 		// add the element to list
 		list.add(200);

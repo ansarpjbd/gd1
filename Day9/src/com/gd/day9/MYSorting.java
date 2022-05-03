@@ -53,8 +53,12 @@ public class MYSorting {
 		//it is sorting based on the name 
 		//because we have implemented the comparable inteface 
 		 //we haver override the String to compara method
-		Collections.sort(listEmployee);
 		
+		//two parameter to comparta to method
+		//listEmployee --list of employee
+		//new SortBySalary()  --sorting key
+		Collections.sort(listEmployee,new SortByName());
+		// e1.compareTo(e2);
 		//System.out.println(listEmployee);
 		for(Employee e:listEmployee)
 		{
