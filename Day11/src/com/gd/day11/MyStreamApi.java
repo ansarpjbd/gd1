@@ -70,7 +70,7 @@ public class MyStreamApi {
 		           .sorted(Collections.reverseOrder())
                    .collect(Collectors.toList());
          //it will collect the data and return it
-		//collectors.toist--it will make the list of daya and collect will return
+		//collectors.toist--it will make the list of days and collect will return
         //System.out.println(newlist);           
 		 newlist.forEach(e1->System.out.println(e1));
 		// once stream is iterated you cannot run the stream again
