@@ -38,6 +38,9 @@
     <fullyQualifiedTypeName name="java.lang.LinkageError"/>
     <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
     <fullyQualifiedTypeName name="java.util.TreeMap"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="com.gd.day13.ThreadA"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="com.gd.day13.MyRun"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="javax.sql.rowset.spi.SyncFactory"/>
 </qualifiedTypeNameHistroy>
