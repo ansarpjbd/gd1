@@ -12,7 +12,11 @@ class Employee {
 	double salary;
 
 }
-
+//CRUD
+		//create
+		//READ
+		//Update
+		//Delete
 public class MyJdbc {
 	// JDBC --java database connectivity
 	// JDBC drivers--classes which will connect the program to database
@@ -49,8 +53,8 @@ public class MyJdbc {
 				// String query="insert into employee values("+id+",'"+name+"',"+salary+")";
 				// execute query
 				// st.execute(query);
-
-				String selectQuery = "Select * From employee";
+                  String table="employee";
+				String selectQuery = "Select * From "+table;
 				ResultSet rs = st.executeQuery(selectQuery);
 				// rs.next() it i will return the true or false
 				// true --if there is next record avaiable
